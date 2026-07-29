@@ -1,0 +1,5 @@
+data/raw_field_data.csv
+data/clean_field_data.csv
+sql/field_force_analysis.sql
+python/data_cleaning_automation.py
+excel/field_force_dashboard.xlsx
